@@ -1,0 +1,1 @@
+Neste projeto , eu criei um banco de Dados SQL com diversas informações sobre lojas filiais em estados diferentes , e em base deste banco de dados eu fiz um dashboard dando alguns detalhes sobre os dados que criei dentro do SQL
